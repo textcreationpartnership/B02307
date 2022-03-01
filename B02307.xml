@@ -1,0 +1,313 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caledonia. The declaration of the council constituted by the Indian and African Company of Scotland; for the government and direction of their colonies, and settlements in the Indies.</title>
+            <author>Company of Scotland Trading to Africa and the Indies.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02307</idno>
+            <idno type="STC">Wing C5597</idno>
+            <idno type="STC">ESTC R171467</idno>
+            <idno type="EEBO-CITATION">52211767</idno>
+            <idno type="OCLC">ocm 52211767</idno>
+            <idno type="VID">175596</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02307)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175596)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2742:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Caledonia. The declaration of the council constituted by the Indian and African Company of Scotland; for the government and direction of their colonies, and settlements in the Indies.</title>
+                  <author>Company of Scotland Trading to Africa and the Indies.</author>
+                  <author>Ross, Hugh.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Sanders, one of His Majesties printers,</publisher>
+                  <pubPlace>[Boston printed] ;</pubPlace>
+                  <pubPlace>Re-printed at Glasgow :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: By order of the Council, Hugh Ross Secretary.</note>
+                  <note>Imperfect: tightly bound; torn with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Company of Scotland Trading to Africa and the Indies --  Early works to 1800.</term>
+               <term>New Caledonia (Colony) --  Early works to 1800.</term>
+               <term>Scotland --  Colonies --  Administration --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:175596:1"/>
+            <!-- PDF PAGE 18 -->
+            <head>CALEDONIA.</head>
+            <head>THE DECLARATION of the COUNCIL <hi>Conſtituted by the</hi> Indian <hi>and</hi> African <hi>Company of</hi> Scotland; <hi>for the Govern<g ref="char:EOLhyphen"/>ment and Direction of their Colonies, and Settlements in the</hi> Indies.</head>
+            <p>THE ſaid Company purſuant to the Powers and Immunities Granted unto them, by His Ma<g ref="char:EOLhyphen"/>jeſty of Great <hi>Britain,</hi> our Soveraign Lord, with Advice and Conſent of His Parliament of <hi>Scotland:</hi> having Granted and Conceded unto us and our Succeſſors in the Government for all times hereafter, full Power to equip, ſet out, freight, and navigate, our own or hired Ships, in War-like, or other manner, from any ports or places in Amity, or not in Hoſtility with Majeſty; to any Lands, Iſlands, Countries, or places in <hi>Aſia, Africa</hi> or <hi>America:</hi> and there <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ant Colonies, build Cities, Towns or Forts in or upon the Places not Inhabited, or in or upon other place by conſent of the Natives or Inhabitants thereof, and not poſſeſt by any <hi>European</hi> So<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="7 letters">
+                  <desc>〈7 letters〉</desc>
+               </gap>gn, Potentate, Prince, or State; and to provide and furniſh the aforeſaid Places, Cities, Towns, <gap reason="illegible: in gutter" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>ts, with Magazines, Ordinance, Arms, Weapons, Ammunition and Stores of War; and by force <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ms to defend the ſame Trade, Navigation, Colonies, Cities, Towns, Forts, Plantations, and Effects whatſoever; and likewiſe to make Reprizals, and to ſeek and take reparation of Damage by Sea or by Land: and to make and conclude Treaties of Peace, and Commerce with the Sove<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> Princes, Eſtates, Rulers, Governours, or Proprietors of the aforeſaid Lands, Iſlands, Countries, <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>ces in <hi>Aſia, Africa</hi> or <hi>America.</hi>
+            </p>
+            <p>
+               <gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> reſerving to themſelves Five <hi>Per Cent.</hi> or one Twentieth part: of the Lands, Mines, Minerals, <gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Stones of Value, precious Woods, and Fiſhings: have further Conceded and Granted unto us, <gap reason="illegible: in gutter" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>te and abſolute right and property in and to all ſuch Lands, Iſlands, Colonies, Cities, Towns, and Plantations, as we ſhall come to, eſtabliſh, or poſſeſs in manner aforeſaid; as alſo to all man<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap> Treaſures, Wealth, Riches, Profits, Mines, Minerals and Fiſhings, with the whole product and <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thereof, as well Under as above the Ground, as well in Rivers and Seas, as in the Lands <gap reason="illegible: in gutter" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>nto belonging; or for or by reaſon of the ſame in any ſort; together with the right of Go<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ent and Admiralty thereof; as likewiſe that all manner of Perſons who ſhal ſettle to Inhabite, or <gap reason="illegible: in gutter" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap> in any ſuch Plantations, Colonies, Cities, Towns, Factories, or places ſhall be, and be reput<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Natives of the Kingdom of <hi>Scotland;</hi> and generally the ſaid Company have Communicated unto <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight to all the Powers, Properties and Priviledges Granted unto them by Act of Parliament; <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>erwiſe howſoever, with Power to Grant and delegate the ſame; and to permit and allow ſuch <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Trade, Commerce, and Navigation unto the Plantations, Colonies, Cities, Towns, and places <gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> poſſesſion, as we ſhall judge fit and convenient.</p>
+            <p>
+               <gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Chief Captains and Supream Leaders of the People of <hi>Darien,</hi> in compliance with former <gap reason="illegible: in gutter" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>ments, having now in moſt kind and obliging manner, received us into their Friendſhip and <gap reason="illegible: in gutter" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>ty, with Promiſe and Contract to aſſiſt and join in defence thereof againſt ſuch as ſhall be their <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Enemies in any time to come. Which, beſides its being one of the moſt Healthful, Rich, and <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Countries upon Earth, hath the advantage of being a Narrow ISTHMUS, Seated in the <gap reason="illegible: in gutter" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>h of the World, between the two vaſt Oceans, which renders it more convenient than any other <gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing the common Store-houſe of the Inſearchable and Immenſe Treaſures of the Spacious South <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he door of Commerce to <hi>China</hi> and <hi>Japan,</hi> and the Emporium and Staple for the Trade of <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible: in gutter" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dies.</hi>
+            </p>
+            <p>
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> now by Vertue of the before-mentioned Powers to us given, We do here Settle, and in the <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of GOD Eſtabliſh Our Selves, and in Honour, and for the Memory of that moſt Ancient and <gap reason="illegible: in gutter" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>ed Name of our Mother Kingdom, We do, and will from henceforward call this Country by,<gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame of <hi>Caledonia:</hi> and our ſelves, Succeſſors, and Aſſociats, by the Name of <hi>Caledonians.</hi>
+            </p>
+            <p>
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuitable to the Weight and Greatneſs of the Truſt repoſed, and the valuable Opportunity now <gap reason="illegible: in gutter" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> hands; being firmly reſolved to communicate and diſpoſe thereof in the moſt juſt and equal <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for Increaſing the Dominions and Subjects of the King Our Soveraign Lord, the Honour and <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of our Country, as well as the benefit and advantage of thoſe who now are, or may hereafter <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>cerned with us: We do hereby Publiſh and Declare, That all manner of Perſons of what Nation <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ple ſoever, ſhall from hence-forward be equally free and alike capable of the ſaid Properties, <gap reason="illegible: in gutter" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>ges, Protections, Immunities, and Rights of Government Granted unto us; and the Merchants, <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>chants ſhips of all Nations; may freely come to, and Trade with us; without being liable in their <gap reason="illegible: in gutter" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>s, Goods or Effects, to any manner of Capture, Confiſcation, Seizure, Forfeiture, Attachment, <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Reſtraint or Prohibition, for or by reaſon of any Embargo, breach of the Peace, Letters of Mark, <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rizals, Declaration of War with any Forraign Prince, Potentate or State; or upon any other <gap reason="illegible: in gutter" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>tor pretence whatſoever.</p>
+            <p>
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> we do hereby not only Grant, and Concede, and Declare a general and equal freedom of Govern<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Trade to thoſe of all Nations, who ſhall hereafter be of, or concerned with us; but alſo a full <gap reason="illegible: in gutter" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>e Liberty of Conſcience in matter of Religion, ſo as the ſame be not underſtood, to allow, con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap> or indulge the Blaſpheming of Gods Holy Name, or any of his Divine Attributes; or of the <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>owing or Prophaning the Sabbath-Day.</p>
+            <p>
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> finally, as the beſt and ſureſt means to render any Government ſucceſsfull, durable and happy; it <gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> by the help of Almighty God) be ever our conſtant and chiefeſt care; that all our further Conſti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="5+ letters">
+                  <desc>•••••…</desc>
+               </gap> Laws and Or<gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ances, be conſonant and agreeable to the Holy Scripture, Right Reaſon, and <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>mples of the wiſeſt and juſteſt Nations; that from the Truth and Righteouſneſs thereof we may <gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for, and expect the Bleſſings of Proſperity and Increaſe.</p>
+            <closer>
+               <dateline>E<gap reason="illegible: damage" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>burgh, <date>December 28, 1699.</date>
+               </dateline>
+               <signed>By Order of the Council,
+HUGH ROSS Secretary</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Re-printed at <hi>Glaſgow,</hi> by <hi>Robert Sanders,</hi> One of His Majeſties Printers, 1699.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
